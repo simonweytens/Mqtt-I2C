@@ -1,0 +1,3 @@
+/home/pi/C programming/tc74/build/CMakeFiles/rebuild_cache.dir
+/home/pi/C programming/tc74/build/CMakeFiles/TC74.dir
+/home/pi/C programming/tc74/build/CMakeFiles/edit_cache.dir

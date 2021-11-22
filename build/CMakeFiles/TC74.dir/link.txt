@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/TC74.dir/main.c.o  -o TC74 
