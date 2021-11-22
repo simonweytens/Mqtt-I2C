@@ -1,0 +1,5 @@
+/home/pi/OpdrachtMQTT/build/CMakeFiles/rebuild_cache.dir
+/home/pi/OpdrachtMQTT/build/CMakeFiles/edit_cache.dir
+/home/pi/OpdrachtMQTT/build/CMakeFiles/Opdracht_MQTT_Receive.dir
+/home/pi/OpdrachtMQTT/build/CMakeFiles/Opdracht_MQTT_Publish.dir
+/home/pi/OpdrachtMQTT/build/CMakeFiles/CGI.dir

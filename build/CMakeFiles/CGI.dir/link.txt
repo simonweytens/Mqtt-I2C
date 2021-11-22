@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/CGI.dir/CGI.c.o  -o CGI  -lmariadb 

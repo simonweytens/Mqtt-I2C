@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Opdracht_MQTT_Receive.dir/Mqtt_receive.c.o  -o Opdracht_MQTT_Receive  -lmariadb -lpaho-mqtt3c 
